@@ -4,7 +4,7 @@
 
 void sort();
 
-
+void test();
 
 int main() {
     printf("version 3!\n");

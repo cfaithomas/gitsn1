@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("version 1!\n");
+    printf("version initiale!\n");
     return 0;
 }

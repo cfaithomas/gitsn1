@@ -1,12 +1,8 @@
 #include <stdio.h>
 
-//to do function sort
 
-void sort();
-
-void test();
 
 int main() {
-    printf("version 3!\n");
+    printf("version 1\n");
     return 0;
 }
